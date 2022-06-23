@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Jun 23 17:04:59 IST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Abhimanyu\\Desktop\\New\ folder\ (4)\\springMvc2\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Abhimanyu\\Desktop\\New\ folder\ (4)\\springMvc2\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar
